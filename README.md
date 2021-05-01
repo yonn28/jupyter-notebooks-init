@@ -2,7 +2,7 @@
 
  # please install a virtual enviroment for this python proyect
 
-python3 -m env test
+python3 -m venv test
 
 # activate enviroment
 
